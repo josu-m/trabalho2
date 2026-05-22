@@ -1,0 +1,53 @@
+12:28:22 | INFO     | 🌍 Cenário seleccionado: NORMAL
+12:28:23 | INFO     | 🖥  Servidor iniciado (PID 18600)
+12:28:23 | INFO     | 👥 12 passageiros lançados.
+12:28:23 | INFO     | ============================================================
+12:28:23 | INFO     | 🛫 AEROPORTO INICIADO
+12:28:23 | INFO     |    Portões: 3  |  Agentes: 4  |  Espera máx.: 30s
+12:28:23 | INFO     | ============================================================
+12:28:24 | INFO     | 🚶 Chegada | Ana Silva (ID 1) | Classe: Primeira | Prioridade: 1
+12:28:24 | INFO     | ✈  Embarque INICIADO | Ana Silva | Classe: Primeira | Portão 1 | Agente 1 | Espera: 0.04s
+12:28:25 | INFO     | 🚶 Chegada | Bruno Costa (ID 2) | Classe: Economica | Prioridade: 3
+12:28:25 | INFO     | 🚶 Chegada | Carla Mendes (ID 3) | Classe: Executiva | Prioridade: 2
+12:28:25 | INFO     | ✈  Embarque INICIADO | Bruno Costa | Classe: Economica | Portão 2 | Agente 2 | Espera: 0.03s
+12:28:25 | INFO     | ✈  Embarque INICIADO | Carla Mendes | Classe: Executiva | Portão 3 | Agente 3 | Espera: 0.03s
+12:28:26 | INFO     | ✅ Embarque CONCLUÍDO | Ana Silva | Portão 1 | Duração: 2s
+12:28:26 | INFO     | 🚶 Chegada | David Santos (ID 4) | Classe: Economica | Prioridade: 3
+12:28:26 | INFO     | ✈  Embarque INICIADO | David Santos | Classe: Economica | Portão 1 | Agente 1 | Espera: 0.03s
+12:28:27 | INFO     | 🚶 Chegada | Eva Ferreira (ID 5) | Classe: Primeira | Prioridade: 1
+12:28:28 | INFO     | ✅ Embarque CONCLUÍDO | Carla Mendes | Portão 3 | Duração: 3s
+12:28:28 | INFO     | ✈  Embarque INICIADO | Eva Ferreira | Classe: Primeira | Portão 3 | Agente 3 | Espera: 1.01s
+12:28:28 | INFO     | 🚶 Chegada | Gabriela Rocha (ID 7) | Classe: Economica | Prioridade: 3
+12:28:28 | INFO     | 🚶 Chegada | Francisco Lima (ID 6) | Classe: Executiva | Prioridade: 2
+12:28:29 | INFO     | 🚶 Chegada | Hugo Martins (ID 8) | Classe: Economica | Prioridade: 3
+12:28:30 | INFO     | ✅ Embarque CONCLUÍDO | Bruno Costa | Portão 2 | Duração: 5s
+12:28:30 | INFO     | ✈  Embarque INICIADO | Francisco Lima | Classe: Executiva | Portão 2 | Agente 2 | Espera: 1.88s
+12:28:30 | INFO     | ✅ Embarque CONCLUÍDO | Eva Ferreira | Portão 3 | Duração: 2s
+12:28:30 | INFO     | ✈  Embarque INICIADO | Gabriela Rocha | Classe: Economica | Portão 3 | Agente 3 | Espera: 2.01s
+12:28:30 | INFO     | 🚶 Chegada | Inês Carvalho (ID 9) | Classe: Primeira | Prioridade: 1
+12:28:31 | INFO     | ✅ Embarque CONCLUÍDO | David Santos | Portão 1 | Duração: 5s
+12:28:31 | INFO     | ✈  Embarque INICIADO | Hugo Martins | Classe: Economica | Portão 1 | Agente 1 | Espera: 1.95s
+12:28:31 | INFO     | 🚶 Chegada | João Oliveira (ID 10) | Classe: Economica | Prioridade: 3
+12:28:32 | INFO     | 🚶 Chegada | Karina Sousa (ID 11) | Classe: Executiva | Prioridade: 2
+12:28:33 | INFO     | ✅ Embarque CONCLUÍDO | Francisco Lima | Portão 2 | Duração: 3s
+12:28:33 | INFO     | ✈  Embarque INICIADO | Inês Carvalho | Classe: Primeira | Portão 2 | Agente 2 | Espera: 2.92s
+12:28:33 | INFO     | 🚶 Chegada | Luís Pinto (ID 12) | Classe: Economica | Prioridade: 3
+12:28:35 | INFO     | ✅ Embarque CONCLUÍDO | Inês Carvalho | Portão 2 | Duração: 2s
+12:28:35 | INFO     | ✅ Embarque CONCLUÍDO | Gabriela Rocha | Portão 3 | Duração: 5s
+12:28:35 | INFO     | ✈  Embarque INICIADO | Karina Sousa | Classe: Executiva | Portão 2 | Agente 2 | Espera: 2.94s
+12:28:35 | INFO     | ✈  Embarque INICIADO | João Oliveira | Classe: Economica | Portão 3 | Agente 3 | Espera: 3.96s
+12:28:36 | INFO     | ✅ Embarque CONCLUÍDO | Hugo Martins | Portão 1 | Duração: 5s
+12:28:36 | INFO     | ✈  Embarque INICIADO | Luís Pinto | Classe: Economica | Portão 1 | Agente 1 | Espera: 2.94s
+12:28:36 | INFO     | ⏳ Todos os passageiros terminaram. A aguardar embarques em curso...
+12:28:38 | INFO     | ✅ Embarque CONCLUÍDO | Karina Sousa | Portão 2 | Duração: 3s
+12:28:40 | INFO     | ✅ Embarque CONCLUÍDO | João Oliveira | Portão 3 | Duração: 5s
+12:28:41 | INFO     | ✅ Embarque CONCLUÍDO | Luís Pinto | Portão 1 | Duração: 5s
+12:28:54 | INFO     | 
+12:28:54 | INFO     | ============================================================
+12:28:54 | INFO     | 📊 SUMÁRIO FINAL DO DIA
+12:28:54 | INFO     |    Total de passageiros : 12
+12:28:54 | INFO     |    Embarcados           : 12
+12:28:54 | INFO     |    Desistências         : 0
+12:28:54 | INFO     |    Tempo médio de espera: 1.64s
+12:28:54 | INFO     | ============================================================
+12:28:54 | INFO     | 🏁 Simulação concluída. Consulte 'airport.log' para o registo completo.
