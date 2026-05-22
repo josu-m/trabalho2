@@ -9,7 +9,7 @@ Responsabilidades:
   • Registar todas as operações no log
 """
 
-import multiprocessing
+
 import time
 import threading
 
@@ -133,6 +133,7 @@ class Airport:
         p["wait_time"]     = wait
         p["gate"]          = gate_id
         p["agent"]         = agent_id
+        p["boarding_start"] = now
         self.passengers[pid] = p
 
         logger.info(
